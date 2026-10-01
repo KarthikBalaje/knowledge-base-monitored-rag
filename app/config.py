@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
     embedding_batch_size: int = 32
     weaviate_host: str = "localhost"
-    weaviate_port: int = 8080
+    weaviate_port: int = 8081
     weaviate_grpc_port: int = 50051
     phoenix_host: str = "localhost"
     phoenix_port: int = 6006

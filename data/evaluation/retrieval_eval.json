@@ -1,10 +1,48 @@
-﻿{
+{
   "evaluation_cases": [
-    {"id":"ds-001","domain":"data_science","question":"What is the difference between correlation and covariance?","relevant_documents":[]},
-    {"id":"ml-001","domain":"machine_learning","question":"What is the purpose of cross-validation?","relevant_documents":[]},
-    {"id":"dl-001","domain":"deep_learning","question":"How does backpropagation work in a neural network?","relevant_documents":[]},
-    {"id":"pt-001","domain":"pytorch","question":"What is autograd in PyTorch?","relevant_documents":[]},
-    {"id":"tf-001","domain":"tensorflow","question":"What is tf.data used for in TensorFlow?","relevant_documents":[]},
-    {"id":"nlp-001","domain":"natural_language_processing_nlp","question":"What is tokenization in Natural Language Processing?","relevant_documents":[]}
+    {
+      "id": "ds-001",
+      "domain": "data_science",
+      "question": "What is the difference between correlation and covariance?",
+      "relevant_documents": [
+        "844534457-Statistics-for-Data-Science.pdf-26-131"
+      ]
+    },
+    {
+      "id": "ml-001",
+      "domain": "machine_learning",
+      "question": "What is the purpose of cross-validation?",
+      "relevant_documents": [
+        "844534457-Statistics-for-Data-Science.pdf-4-74",
+        "844534457-Statistics-for-Data-Science.pdf-4-73"
+      ]
+    },
+    {
+      "id": "dl-001",
+      "domain": "deep_learning",
+      "question": "How does backpropagation work in a neural network?",
+      "relevant_documents": [
+        "489621596-Math-of-Deep-Learning-Neural-Networks.pdf-3-167",
+        "595541780-Cheatsheets-for-Deep-Learning-1650192034.pdf-69-386"
+      ]
+    },
+    {
+      "id": "pt-001",
+      "domain": "pytorch",
+      "question": "What is autograd in PyTorch?",
+      "relevant_documents": [
+        "450690814-PyTorch-pdf.pdf-11-748",
+        "450690814-PyTorch-pdf.pdf-12-749"
+      ]
+    },
+    {
+      "id": "nlp-001",
+      "domain": "natural_language_processing_nlp",
+      "question": "What is tokenization in Natural Language Processing?",
+      "relevant_documents": [
+        "702192536-Natural-Language-Processing-Notes-Class-10-AI.pdf-9-720",
+        "702192536-Natural-Language-Processing-Notes-Class-10-AI.pdf-9-721"
+      ]
+    }
   ]
 }
