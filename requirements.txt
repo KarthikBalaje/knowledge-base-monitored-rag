@@ -1,0 +1,13 @@
+﻿python-dotenv
+pydantic>=2
+pydantic-settings>=2
+pymupdf
+sentence-transformers
+torch
+weaviate-client>=4
+ollama
+numpy
+scikit-learn
+arize-phoenix
+openinference-instrumentation-ollama
+pytest
